@@ -1,0 +1,8 @@
+/aboutproxy/**/*
+/libapps/**/*
+/v86/**/*
+/build/**/*
+/apps/**/*
+/nohost/**/*
+/public/uv/
+/static/
